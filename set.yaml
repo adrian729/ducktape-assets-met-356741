@@ -1,0 +1,22 @@
+id: met-356741
+title: Rosselli border sheet
+summary: Border strips, corners and roundels cut from one engraved sheet of border segments by Francesco Rosselli (Florence, 1490–1500) in the Metropolitan Museum of Art, accession 29.16.3; the strips tile and the corners compose into frames.
+kind: historical
+author: adrian729
+maintainer: https://github.com/adrian729/ducktape-assets/issues
+license:
+  artwork: CC0-1.0
+  notes: Extracted from a Metropolitan Museum of Art Open Access (CC0) image; see SOURCES.md.
+period: 1490–1500
+region: Florence, Italy
+style: early Renaissance engraving
+origin:
+  institution: Metropolitan Museum of Art
+  object_identifier: 29.16.3
+  object_title: "Sheet of border segments: vertical floral ornament, horizontal frieze, four corners"
+  record_url: https://www.metmuseum.org/art/collection/search/356741
+tags:
+  - engraving
+  - border
+  - frame
+  - renaissance

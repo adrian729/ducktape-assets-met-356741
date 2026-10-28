@@ -1,0 +1,54 @@
+# descriptive: find it and understand it
+id: roundel-top
+title: Rosselli roundel, palmettes and shells
+description: The engraved roundel from the topmost of the sheet's four square corner panels, cut to the circle without the panel's ruled square. Inside an egg-and-dart rim a central rosette sits in a fluted boss, acanthus palmettes with a bud reach out to the four cardinal points, and shell fans flanked by C-scrolls fill the four diagonals; dark brown engraved lines over cream and tan interiors, the openings and the surrounding sheet transparent.
+type: ornament
+categories:
+  - botanical
+  - scrollwork
+  - floral
+subjects:
+  - medallion
+  - rosette
+  - acanthus
+  - scroll
+  - leaf
+colors:
+  - cream
+  - tan
+  - brown
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - { asset: met-356741/roundel-second, role: variant }
+  - { asset: met-356741/roundel-third, role: variant }
+  - { asset: met-356741/roundel-bottom, role: variant }
+  - { asset: met-356741/foliate-strip, role: companion }
+  - { asset: met-356741/mask-strip, role: companion }
+usage_notes:
+  - One of the four corner roundels of the sheet's page-frame scheme; the four are interchangeable and read as a set at the corners of a frame made from the two strips.
+display_width: [ 120, 500 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Metropolitan Museum of Art
+  object_title: "Sheet of border segments: vertical floral ornament, horizontal frieze, four corners"
+  object_identifier: 29.16.3
+  date: 1490-1500
+  artist: Francesco Rosselli
+  record_url: https://www.metmuseum.org/art/collection/search/356741
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP833949.jpg
+  rights_text: Public Domain
+  rights_url: https://www.metmuseum.org/art/collection/search/356741
+  source_sha256: 98d28d964a4d99da22c8195476ad3c632a032b850f3ee3efe3ef019515dd88f8
+license: null

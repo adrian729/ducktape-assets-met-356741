@@ -1,0 +1,57 @@
+# descriptive: find it and understand it
+id: foliate-strip
+title: Rosselli vertical foliate ornament
+description: The complete engraved vertical ornament from the left of the sheet, about five times taller than wide. A central stem carries three lily-like palmettes on banded knots, flanked at every level by mirrored acanthus leaves that curl outward into C-scrolls and small berry sprigs; a small finial closes the top and the lowest leaves close the bottom. Dark brown engraved lines over cream and tan interiors, the openings between the leaves and the surrounding sheet transparent.
+type: divider
+categories:
+  - botanical
+  - scrollwork
+  - floral
+subjects:
+  - acanthus
+  - leaf
+  - scroll
+  - flower
+  - berry
+  - finial
+colors:
+  - cream
+  - tan
+  - brown
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - { asset: met-356741/foliate-tile, role: variant }
+  - { asset: met-356741/mask-strip, role: companion }
+  - { asset: met-356741/roundel-top, role: companion }
+  - { asset: met-356741/roundel-second, role: companion }
+  - { asset: met-356741/roundel-third, role: companion }
+  - { asset: met-356741/roundel-bottom, role: companion }
+usage_notes:
+  - Whole strip with its original end terminals; it does not repeat, so use rosselli-foliate-border for a tiled run.
+  - The sheet pairs it as the vertical side of a page frame with the mask frieze running horizontally and a roundel in each corner.
+display_width: [ 60, 240 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Metropolitan Museum of Art
+  object_title: "Sheet of border segments: vertical floral ornament, horizontal frieze, four corners"
+  object_identifier: 29.16.3
+  date: 1490-1500
+  artist: Francesco Rosselli
+  record_url: https://www.metmuseum.org/art/collection/search/356741
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP833949.jpg
+  rights_text: Public Domain
+  rights_url: https://www.metmuseum.org/art/collection/search/356741
+  source_sha256: 98d28d964a4d99da22c8195476ad3c632a032b850f3ee3efe3ef019515dd88f8
+license: null
