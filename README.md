@@ -3,7 +3,7 @@
 
 Border strips, corners and roundels cut from one engraved sheet of border segments by Francesco Rosselli (Florence, 1490–1500) in the Metropolitan Museum of Art, accession 29.16.3; the strips tile and the corners compose into frames.
 
-Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `met-356741`, historical, 8 assets.
+Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `met-356741`, historical, 8 assets, version 1.0.0.
 
 ## Licence and attribution
 
@@ -13,10 +13,10 @@ Author: adrian729. Maintainer: https://github.com/adrian729/ducktape-assets/issu
 
 ## Use one asset
 
-No version is published yet. Once it is, pin the exact version (never `@latest`); the URL scheme is:
+Pin the exact version (never `@latest`). For `met-356741/foliate-strip`:
 
-```
-https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-met-356741@<version>/webp/<asset-id>-<width>.webp
+```html
+<img src="https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-met-356741@1.0.0/webp/foliate-strip-64.webp" alt="" loading="lazy">
 ```
 
 Package `@ranx729/ducktape-assets-met-356741`; every file, width and format is listed in its `manifest.json`. Masters live in git under `assets/<id>/` and in `@ranx729/ducktape-assets-met-356741-masters`; never put a master on a page.
